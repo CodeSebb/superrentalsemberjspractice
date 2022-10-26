@@ -1,5 +1,6 @@
 # super-rentals
-
+This is also practice for me in learning Ember.js. This project and the process of working on bits of it each day is <br>
+geared towards helping me further my own skillset and understanding of this awesome framework!<br>
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
 
